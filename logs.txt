@@ -1,0 +1,15 @@
+28/02/2023 23:14:13 - https://www.google.com/ - online: true
+28/02/2023 23:14:14 - https://enem.inep.gov.br/participante/#!/ - online: true
+28/02/2023 23:14:14 - https://www.gov.br/pt-br - online: true
+28/02/2023 23:14:19 - https://www.google.com/ - online: true
+28/02/2023 23:14:20 - https://enem.inep.gov.br/participante/#!/ - online: true
+28/02/2023 23:14:20 - https://www.gov.br/pt-br - online: true
+28/02/2023 23:14:25 - https://www.google.com/ - online: true
+28/02/2023 23:14:26 - https://enem.inep.gov.br/participante/#!/ - online: true
+28/02/2023 23:14:26 - https://www.gov.br/pt-br - online: true
+28/02/2023 23:14:31 - https://www.google.com/ - online: true
+28/02/2023 23:14:32 - https://enem.inep.gov.br/participante/#!/ - online: true
+28/02/2023 23:14:32 - https://www.gov.br/pt-br - online: true
+28/02/2023 23:14:37 - https://www.google.com/ - online: true
+28/02/2023 23:14:38 - https://enem.inep.gov.br/participante/#!/ - online: true
+28/02/2023 23:14:38 - https://www.gov.br/pt-br - online: true
